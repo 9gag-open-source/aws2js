@@ -6,7 +6,8 @@
   "dependencies": {
     "lodash": ">=0.6.x",
     "semver": ">=1.0.x",
-    "buffer-concat": ">=0.0.1"
+    "buffer-concat": ">=0.0.1",
+    "aws4": ">=1.0.4"
   },
   "optionalDependencies": {
     "libxml-to-js": ">=0.3.10",
@@ -105,6 +106,10 @@
     {
        "name": "Marcus Westin",
        "url": "http://marcuswest.in/"
+    },
+    {
+      "name": "Calvin Tsang",
+      "url": "https://github.com/yuripave"
     }
   ],
   "repository": {
